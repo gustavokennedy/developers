@@ -14,3 +14,4 @@ Uma lista de Desenvolvedores do Brasil que trabalhamos. Para os feedbacks entre 
 - [Ricardo Ferreira Moreira - Node e VueJS](https://github.com/calditostech)
 - [Willian Fortes - PHP e ReactJS](https://github.com/willfortes)
 - [Gabriel Junior - PHP e ReactJS](https://github.com/GabrielDev023)
+- [Wallan Peixoto - PHP e ReactJS](https://github.com/WallanDavid)
